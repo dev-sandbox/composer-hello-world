@@ -1,6 +1,6 @@
 {
   "name": "thinkholic/hello-world",
-  "description": "My first Composer project",
+  "description": "My First Composer Project",
   "type": "library",
   "license": "MIT",
   "authors": [
